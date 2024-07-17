@@ -1,0 +1,17 @@
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\bin\Debug\net8.0\ImageCopier.exe
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\bin\Debug\net8.0\ImageCopier.deps.json
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\bin\Debug\net8.0\ImageCopier.runtimeconfig.json
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\bin\Debug\net8.0\ImageCopier.dll
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\bin\Debug\net8.0\ImageCopier.pdb
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.csproj.AssemblyReference.cache
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.AssemblyInfoInputs.cache
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.AssemblyInfo.cs
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.csproj.CoreCompileInputs.cache
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCop.DF7B26E2.Up2Date
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.dll
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\refint\ImageCopier.dll
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.pdb
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ImageCopier.genruntimeconfig.cache
+E:\Universidad\UASD\Verano 2024\Proyecto_Expo\ImageCopier\obj\Debug\net8.0\ref\ImageCopier.dll
